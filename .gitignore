@@ -1,0 +1,25 @@
+# Desktop app artifacts
+pdf_stamp_tool/.venv-build/
+pdf_stamp_tool/build/
+pdf_stamp_tool/dist/
+pdf_stamp_tool/__pycache__/
+pdf_stamp_tool/**/*.pyc
+pdf_stamp_tool/*.spec
+pdf_stamp_tool/*.zip
+pdf_stamp_tool/user_data/
+
+# Web app artifacts
+pdf_stamp_web/node_modules/
+pdf_stamp_web/dist/
+pdf_stamp_web/.netlify/
+pdf_stamp_web/.vite/
+pdf_stamp_web/*.log
+pdf_stamp_web/.env
+pdf_stamp_web/.env.*
+
+# General
+**/__pycache__/
+**/*.pyc
+*.log
+.DS_Store
+
