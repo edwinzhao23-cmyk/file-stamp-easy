@@ -18,8 +18,8 @@ pdf_stamp_web/.env
 pdf_stamp_web/.env.*
 
 # General
+.codex/
 **/__pycache__/
 **/*.pyc
 *.log
 .DS_Store
-
